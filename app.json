@@ -1,0 +1,6 @@
+{
+  "name": "gulp-php-heroku",
+  "description": "PHP with Gulp that can be deployed to Heroku",
+  "repository": "",
+  "addons": []
+}
