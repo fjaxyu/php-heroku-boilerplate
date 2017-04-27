@@ -2,6 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Object Oriented PHP</title>
+  <title>php-heroku-boilerplate</title>
 </head>
 <body>

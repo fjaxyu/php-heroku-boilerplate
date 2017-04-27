@@ -5,7 +5,7 @@ const browserSync = require('browser-sync');
 gulp.task('default', () => {
   connect.server({}, () => {
     browserSync({
-      proxy: '127.0.0.1:8000',
+      proxy: '127.0.0.1:8000/web',
       notify: {
         styles: {
           top: 'auto',

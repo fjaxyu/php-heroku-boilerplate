@@ -1,5 +1,5 @@
 {
-  "name": "gulp-php-heroku",
+  "name": "php-heroku-boilerplate",
   "description": "PHP with Gulp that can be deployed to Heroku",
   "repository": "",
   "addons": []
