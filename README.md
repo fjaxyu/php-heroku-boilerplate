@@ -1,5 +1,7 @@
 # php-heroku-boilerplate
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Usage
 
 [Heroku: PHP Getting Started](https://devcenter.heroku.com/articles/getting-started-with-php#introduction)
